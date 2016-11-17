@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">rma15-17162</string>
+    <string name="detaljinaziv">Detalji o muzičaru</string>
+    <string name="detaljiime">Ime:</string>
+    <string name="detaljiprezime">Prezime:</string>
+    <string name="detaljiweb">Web stranica:</string>
+    <string name="detaljslicno">Slicnii</string>
+    <string name="detaljitoppjesme">Top 5 pjesama</string>
+    <string name="detaljibio">Biografija</string>
+    <string name="pretraga">PRETRAGA</string>
+    <string name="albumi">Top 5 albuma</string>
+</resources>

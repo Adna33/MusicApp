@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rma15-17162</string>
+    <string name="detaljinaziv">Details about musician</string>
+    <string name="detaljiime">First name:</string>
+    <string name="detaljiprezime">Last Name:</string>
+    <string name="detaljiweb">Web page:</string>
+    <string name="detaljslicno">Similar</string>
+    <string name="detaljitoppjesme">Top 5 songs</string>
+    <string name="detaljibio">Biography:</string>
+    <string name="pretraga">SEARCH</string>
+    <string name="albumi">Top 5 albums</string>
+</resources>
